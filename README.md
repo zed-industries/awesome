@@ -8,9 +8,9 @@ This repository contains a list of links to all things awesome, related to Zed. 
 
 ... links to user-published themes
 
-[Catppuccin](https://github.com/ssaunderss/zed-themes/blob/main/catppuccin.json)
-[Nightfox](https://github.com/ssaunderss/zed-themes/blob/main/nightfox.json)
-[Tokyo Night](https://github.com/ssaunderss/zed-themes/blob/main/tokyo-night.json)
+- [Catppuccin](https://github.com/ssaunderss/zed-themes/blob/main/catppuccin.json)
+- [Nightfox](https://github.com/ssaunderss/zed-themes/blob/main/nightfox.json)
+- [Tokyo Night](https://github.com/ssaunderss/zed-themes/blob/main/tokyo-night.json)
 
 ## media
 
