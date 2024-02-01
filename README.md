@@ -6,8 +6,8 @@ This repository contains a list of links to all things awesome, related to Zed. 
 
 [Zed now supports loading in external themes](https://zed.dev/blog/user-themes-now-in-preview)
 
-...links to published themes
+... links to user-published themes
 
 ## media
 
-... links to Zed-focused videos
+... links to Zed-focused media
