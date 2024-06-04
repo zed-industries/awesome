@@ -12,4 +12,5 @@ This repository contains a list of links to all things awesome, related to Zed a
 
 ## Misc
 
+- [Zed Raycast extension](https://www.raycast.com/ewgenius/zed-recent-projects/commands)
 - [Zed theme preview website](https://zedtheme.com)
