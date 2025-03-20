@@ -15,3 +15,4 @@ This repository contains a list of links to all things awesome, related to Zed a
 - [Zed Raycast extension](https://www.raycast.com/ewgenius/zed-recent-projects/commands)
 - [Zed theme preview website](https://zedtheme.com)
 - [Zed 101 Setup](https://github.com/jellydn/zed-101-setup)
+- [Prompt library exporter](https://github.com/rubiojr/zed-prompts)
